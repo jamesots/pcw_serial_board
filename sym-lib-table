@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name pcwserial-rescue)(type Legacy)(uri ${KIPRJMOD}/pcwserial-rescue.lib)(options "")(descr ""))
+  (lib (name parts)(type Legacy)(uri ${KIPRJMOD}/parts.lib)(options "")(descr ""))
+)
